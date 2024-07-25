@@ -1,6 +1,6 @@
 - 👋 Hi, we're @GarboDog
 - 👀 We're interested in ... Art, Web, Games, and Furry
-- 🌱 We're currently learning ... HTML, C#, 3D Modeling, and Animation
+- 🌱 We're currently learning ... HTML, C#, 3D Modeling, Animation, and Godot!
 - 💞️ We're looking to collaborate on ... Games, Art and funny Websites
 - 📫 How to reach us ... BlueSky and Discord
 - 😄 Pronouns: ... Typically go by She/They, but here is a fun long list of ALL of the pronouns used depending on mood: She/Her/They/Them/he/him/we/us/ag/em/eirs/ey/eys/it/its/elle. ((your not ezxpected to follow any of that lmao))
